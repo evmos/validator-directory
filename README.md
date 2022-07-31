@@ -38,12 +38,12 @@ Collaborator: { // One can always add more collaborators
 Communities: [
   {
   "involvement_type": enum* // "Github | Community | Social | Other",
-    "date_from": string* //"Feb 22, 2021",
-    "date_to": string //"Present",
+    "date_from": string* // "Feb 22, 2021",
+    "date_to": string // "Present",
     "handle": string, // Can be a developer profile
     "description": string*,
     "link": "string", // Project link or developer profile link
-    "contribution": [{
+    "contributions": [{
       "features": { // as Github
         "name": string*,
         "sha": string,
@@ -56,7 +56,7 @@ Communities: [
   "involvementType": Social,
   "date_from": "September 2021",
   "date_to": "Present",
-  "contribution": [{
+  "contributions": [{
     { //Community | Social | Other
         "name": string*,
         "description": string,
