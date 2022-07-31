@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["delegators", "restaking", "stakers"]
+  "cSpell.words": [
+    "boostrap",
+    "delegators",
+    "evmosjs",
+    "interchain",
+    "restaking",
+    "stakers"
+  ]
 }

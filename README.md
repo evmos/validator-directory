@@ -15,14 +15,14 @@ The Validator Directory on the Evmos Network is a place for validators to share 
 
 Please note that all fields are under `description`. If any fields are not described in the acceptable fields, we cannot accept the PR. Additionally, if you list more than 2 items in any arrays, we will show the first two. For example, Communities have several categories. If you fill out two per each categories (Community, Social, etc.), then only the first two are shown in the Evmos Staking Dashboard. _An asterisk by the type represents a required type_. We encourage validators to fill out the `details` field with a bit more about themselves. However, we encourage short, succinct responses.
 
-```
+``` javascript
 SocialEntity : {
   "name": string*,
   "link": string*,
 }
 ```
 
-```
+``` javascript
 Collaborator: { // One can always add more collaborators
   "identifier": string*,
   "role": string,
@@ -34,7 +34,7 @@ Collaborator: { // One can always add more collaborators
 }
 ```
 
-```
+``` javascript
 Communities: [
   {
   "involvement_type": enum* // "Github | Community | Social | Other",
@@ -65,7 +65,7 @@ Communities: [
 }]
 ```
 
-```
+``` javascript
 Infrastructures: [
   {
   "hosting_provider": string,
