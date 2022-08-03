@@ -54,7 +54,7 @@
       ],
       "offers_auto_compounding":false,
       "has_interchain_account":false,
-      "is_recent":true,
+      "is_recent":false,
       "has_liquid_staking":false,
       "relayers":true
    },
