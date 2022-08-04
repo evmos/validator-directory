@@ -9,7 +9,7 @@ The Validator Directory on the Evmos Network is a place for validators to share 
 1. Go to your terminal and query for your validator details. You can do this also on our website [here](https://api.evmos.org) or interact with the `/cosmos/staking/v1beta1/validators/{validator_addr}`.
 2. Copy the result over to your own editor and add/edit the fields listed below. In the end, the result should be similar to the `validator.example.json`.
 3. Please fill out as much details as possible. If you have restaking feature enabled, please ensure you add the required details on the [Eco-stake Validator Registry](https://github.com/eco-stake/validator-registry) and make a PR request on there as well. We will look up your details via the moniker and address.
-4. Make a PR request on Evmos Validator Directory.
+4. Make a PR request on Evmos Validator Directory and be sure to place your profile in the right folders: `mainnet` and/or `testnet`.
 
 ## Acceptable Fields
 
