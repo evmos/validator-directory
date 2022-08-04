@@ -1,0 +1,47 @@
+{
+  "operator_address": "evmosvaloper1k9lay7ec328u2cmmtp8m8309msztt5hz7euvcc",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "xacZxBjQ80cBh2NGu0fHJEba+8wqw+9kBpKNS/i6RhE="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "580180690425600229855931",
+  "delegator_shares": "580180690425600229855931.000000000000000000",
+  "description": {
+    "moniker": "DeFi100-iCosmosDAO 💯⚛️",
+    "identity": "3D7812E90AFB1548",
+    "website": "http://icosmosdao.com",
+    "social": [
+      {
+        "name": "DeFi100",
+        "link": "https://discord.gg/DeFi"
+      },
+      {
+        "name": "Telegram",
+        "link": "https://t.me/DeFi100group"
+      }
+    ],
+    "security_contact": "",
+    "details": "We are from Cosmos Chinese community, iCosmosDAO is a node DAO organization formed by Cosmos fans,website is http://icosmosdao.com/. Out of our love for Cosmos ecology, we have built test nodes, main network verification nodes, and opened the reinvestment function, which can be found by searching the node logo iCosmosDAO; Regarding the revenue distribution of the nodes, we share most of the revenue of the nodes to our supporters; besides promoting Cosmos in the Chinese community and writing tutorials, we sponsor developers to develop Cosmos tools such as IBCCoin.org",
+    "collaborators": [],
+    "communities": [],
+    "infrastructures": [],
+    "offers_auto_compounding": false,
+    "has_interchain_account": false,
+    "is_recent": true,
+    "has_liquid_staking": false,
+    "relayers": false
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.010000000000000000"
+    },
+    "update_time": "2022-04-30T05:42:27.007881312Z"
+  },
+  "min_self_delegation": "1000000"
+}
