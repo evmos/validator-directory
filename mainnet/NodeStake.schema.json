@@ -39,13 +39,13 @@
                {
                   "name":"Statesync provider",
                   "description":"Our RPC allows statesync."
-               },
+               }
             ]
          }
       ],
       "infrastructures":[
          {
-            "hosting_provider":"https://rpc.evmos.nodestake.top, https://api.evmos.nodestake.top, https://grpc.evmos.nodestake.top, https://jsonrpc.evmos.nodestake.top",
+            "hosting_provider":"https://rpc.evmos.nodestake.top, https://api.evmos.nodestake.top, https://grpc.evmos.nodestake.top, https://jsonrpc.evmos.nodestake.top"
          }
       ],
       "offers_auto_compounding":true,
