@@ -1,0 +1,46 @@
+{
+  "operator_address": "evmosvaloper1w2j20fj2a4wfmvqnhfhv4mfxkw5xxt09x8esyj",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "zcxZ+mAzh6K4rhLXI1Nz6qwsOcdDbrlAit/bddyVUdw="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "45027222717866734470039",
+  "delegator_shares": "45027222717866734470039.000000000000000000",
+  "description": {
+    "moniker": "Silk Nodes",
+    "identity": "1326A75B9148A214",
+    "website": "SilkNodes.io",
+    "security_contact": "",
+    "details": "Silk Nodes is a modern organization running quality nodes for chains in the blockchain ecosystem.",
+    "social":[
+        {
+           "name":"Twitter",
+           "link":"https://twitter.com/silk_nodes"
+        },
+        {
+           "name":"Discord",
+           "link":"https://discord.silknodes.io/"
+        }
+     ],
+     "collaborators":[],
+     "communities":[],
+     "offers_auto_compounding":true,
+     "has_interchain_account":false,
+     "is_recent":true,
+     "has_liquid_staking":false,
+     "relayers":false
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.100000000000000000",
+      "max_change_rate": "0.010000000000000000"
+    },
+    "update_time": "2022-07-14T12:49:02.793613151Z"
+  },
+  "min_self_delegation": "1"    
+}
