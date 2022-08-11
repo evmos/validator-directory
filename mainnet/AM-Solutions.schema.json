@@ -1,0 +1,74 @@
+{
+   "operator_address":"evmosvaloper1qx7u07f2tv5j8677r3ttt97prkc2dgcyp2km24",
+   "consensus_pubkey":{
+      "@type":"/cosmos.crypto.ed25519.PubKey",
+      "key":"HilxJfdXbqsSxD4I5awhvHBd42UUOFdM3gZHmHuo0M0="
+   },
+   "jailed":false,
+   "status":"BOND_STATUS_UNBONDING",
+   "tokens":"15788847256634801743629",
+   "delegator_shares":"15788847256634801743629.000000000000000000",
+   "description":{
+      "moniker":"AM Solutions 🪐",
+      "identity":"5A1DB2A1F7B6A66F",
+      "website":"https://www.theamsolutions.info",
+      "social":[
+         {
+            "name":"Discord",
+            "link":"AlexeyM#5409"
+         },
+         {
+            "name":"Telegram",
+            "link":"https://t.me/AlekseyRiga"
+         }
+      ],
+      "security_contact":"latflat@gmail.com",
+      "details":"Private Crypto enthusiast, passionned about crypto and nodes. We always say: The most important is - Reliability",
+      "collaborators":[
+         
+      ],
+      "communities":[
+         {
+            "involvement_type":"Other",
+            "description":"Contributions of AM Solutions",
+            "date_from":"Oct 2021",
+            "date_to":"Present",
+            "contributions":[
+               {
+                  "name":"RPC and  API endpoints, Node Installation guides ",
+                  "description":"Delivering RPC and API services for Mainnet and Testnet. https://www.theamsolutions.info/evmos-services"
+               },
+               {
+                  "name":"Data Snapshots",
+                  "description":"Providing data snapshots and keep them updated. https://www.theamsolutions.info/evmos-services"
+               },
+               {
+                  "name":"State Sync service",
+                  "description":"At our website always available state sync service for Evmos mainnet https://www.theamsolutions.info/evmos-services"
+               }
+            ]
+         }
+      ],
+      "infrastructures":[
+         {
+            "hosting_provider":"https://evmos-rpc.theamsolutions.info, https://evmos-api.theamsolutions.info"
+         }
+      ],
+      "offers_auto_compounding":true,
+      "has_interchain_account":false,
+      "is_recent":true,
+      "has_liquid_staking":false,
+      "relayers":false
+   },
+   "unbonding_height":"0",
+   "unbonding_time":"1970-01-01T00:00:00Z",
+   "commission":{
+      "commission_rates":{
+         "rate":"0.050000000000000000",
+         "max_rate":"0.200000000000000000",
+         "max_change_rate":"0.010000000000000000"
+      },
+      "update_time":"2022-03-02T19:00:00Z"
+   },
+   "min_self_delegation":"1"
+}
