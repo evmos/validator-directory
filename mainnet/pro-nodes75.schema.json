@@ -1,0 +1,98 @@
+{
+  "operator_address": "evmosvaloper1cn3mdzauql5af585mq0xksn26lmlh7naplgs6c",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "ilib31JKFiZdEBOWLNzlhnODEOhoxbP7DTutz5ENP0M="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_UNBONDED",
+  "tokens": "64393532339824636671",
+  "delegator_shares": "64393532339824636671.000000000000000000",
+  "description": {
+    "moniker": "pro-nodes75",
+    "identity": "3666DD45EF3157F1",
+    "website": "",
+    "social": [
+      {
+        "name":"Twitter",
+        "link":"https://twitter.com/theNode75"
+      },
+      {
+        "name":"Discord",
+        "link":["SW33 | pro-nodes#0534", "shurinoff#5643"]
+      },
+      {
+        "name": "Telegram",
+        "link": ["https://t.me/sw_HbZ", "https://t.me/shurinov"]
+      }
+    ],
+    "security_contact": "n75pro@pm.me",
+    "details": "Professional validator service. Providing IBC for Evmos. Active participant in Evmos governance. Low fees.",
+    
+    "collaborators": [],
+    "communities": [
+      {
+        "involvement_type": "Other",
+        "description": "Technical support of Evmos",
+        "date_from": "Nov 2021",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "Genesis validator",
+            "description": "We were selected by team as genesis validator because of our skills."
+          },
+          {
+            "name": "Testnets participant",
+            "description": "We have been participating in Evmos since 'Arsia mons' testnet. Running current 'evmos_9000-4' testnet",
+            "link": "https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper1qkpexhk3vfyexadw2c4f67hrdf98m3muv463qq"
+          },
+          {
+            "name": "IBC",
+            "description": "Maintaining Evmos IBC channels to Gravity Bridge, Terra2, Crescent"
+          },
+        ]
+      },
+      {
+        "involvement_type": "Community",
+        "description": "Involved in Evmos community",
+        "date_from": "May 2022",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "Governance",
+            "description": "We are interested in Evmos chain development and governance. That's why we are actively participating in discussions at commonwealth. Our voting ratio is 100%. Almost always we attend Council meetings"
+          },
+          {
+            "name": "IBC docs",
+            "description": "Helped to create doc with all active IBC channels",
+            "link": "https://github.com/evmos/evmos/blob/main/docs/protocol/ibc.md",
+          },
+        ]
+      }
+
+    ],
+    
+    "infrastructures": [
+      {
+        "hosting_provider": ["hetzner", "OVH"],
+        "stack_details": "We are using sentry nodes and firewall to mitigate DDOS attacks on validator's node. Using tKMS to secure our validator's keys. Our main infra is deployed in OVH, our backup infra is Hetzner. We using grafana, discord and telegram bots as alerts system."
+      }
+    ],
+    "offers_auto_compounding": false,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": true
+  },
+  "unbonding_height": "737605",
+  "unbonding_time": "2022-06-27T18:59:02.114489761Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.020000000000000000"
+    },
+    "update_time": "2022-07-23T09:52:23.934539661Z"
+  },
+  "min_self_delegation": "1"
+}
