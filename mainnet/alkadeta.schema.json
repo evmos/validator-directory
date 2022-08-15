@@ -1,0 +1,72 @@
+{
+  "operator_address": "evmosvaloper13h9qxch4r8ep2x8ynwlmcvcl6h902zg5elznhq",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "Z0o83utTNImbjWdIfKCITyctQbdIVALslHHdZMuEC4g="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "49150480832023704353463",
+  "delegator_shares": "49150480832023704353463.000000000000000000",
+  "description": {
+    "moniker": "alkadeta",
+    "identity": "2D4F5830BB62F73D",
+    "website": "https://alkadeta.com",
+	"social": [
+      {
+        "name": "Discord",
+        "link": "https://discord.gg/invite/tU9wwJYg36"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/alkadeta"
+      }
+    ],
+    "security_contact": "security@alkadeta.com",
+    "details": "Highly Active, Bare Metal Cosmos Validator \u0026 IBC Relayer - Comfy staking with minimum fees!",
+	"collaborators": [],
+	"communities": [
+      {
+        "involvementType": "Other",
+	"description": "IBC Relaying Contributions of alkadeta",
+        "dates": "May 2022 to Present",
+        "handle": "alkadeta",
+        "link": "https://www.mintscan.io/evmos/account/evmos1ytj96qgvcntfckz34aaszr6r73qnyuqex3s7ly",
+        "contributions": [
+          {
+            "name": "Evmos IBC Relayer",
+            "description": "alkadeta is one of the top 3 relayers on Evmos. On top of that, alkadeta is the most active relayer operator of 5 current operators between Osmosis and Evmos with 23,932 transactions and counting. This route is the most and only active IBC route on Evmos as of now. Chances are we've relayed some of your packets to Osmosis :) Our daily avarage Evmos cost of relaying operation fees are 20 Evmos. Other than Osmosis we relay packages between Evmos<->Gravity Bridge and Evmos<->Stargaze, soon Evmos<->Agoric"
+          }
+        ]
+      },
+      {
+        "involvement_type": "Social",
+        "description": "Voluntarily helping the Evmos community on Discord with various problems",
+        "date_from": "Late Q4 2021",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "Voluntary Discord Support",
+            "description": "We are the most active validator team in the Evmos Discord behind the other 2 validators with paid moderator jobs. We have 1704 Discord messages in total. We have put in most of our working hours to provide support in Evmos Discord for months already and we are going to keep doing so. Whether it's an unanswered question or a challenging technical problem that the moderator team couldn't quite grasp, we step in. We find joy in helping the community in any shape or form!"
+          }
+        ]
+      }
+    ],
+    "offers_auto_compounding": true,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": true
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.010000000000000000"
+    },
+    "update_time": "2022-03-02T19:00:00Z"
+  },
+  "min_self_delegation": "1"
+}
