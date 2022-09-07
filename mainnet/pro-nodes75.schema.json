@@ -14,12 +14,12 @@
     "website": "",
     "social": [
       {
-        "name":"Twitter",
-        "link":"https://twitter.com/theNode75"
+        "name": "Twitter",
+        "link": "https://twitter.com/theNode75"
       },
       {
-        "name":"Discord",
-        "link":["SW33 | pro-nodes#0534", "shurinoff#5643"]
+        "name": "Discord",
+        "link": ["SW33 | pro-nodes#0534", "shurinoff#5643"]
       },
       {
         "name": "Telegram",
@@ -28,7 +28,7 @@
     ],
     "security_contact": "n75pro@pm.me",
     "details": "Professional validator service. Providing IBC for Evmos. Active participant in Evmos governance. Low fees.",
-    
+
     "collaborators": [],
     "communities": [
       {
@@ -49,7 +49,7 @@
           {
             "name": "IBC",
             "description": "Maintaining Evmos IBC channels to Gravity Bridge, Terra2, Crescent"
-          },
+          }
         ]
       },
       {
@@ -65,13 +65,12 @@
           {
             "name": "IBC docs",
             "description": "Helped to create doc with all active IBC channels",
-            "link": "https://github.com/evmos/evmos/blob/main/docs/protocol/ibc.md",
-          },
+            "link": "https://github.com/evmos/evmos/blob/main/docs/protocol/ibc.md"
+          }
         ]
       }
-
     ],
-    
+
     "infrastructures": [
       {
         "hosting_provider": ["hetzner", "OVH"],

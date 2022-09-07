@@ -1,59 +1,59 @@
 {
-   "operator_address":"evmosvaloper1ufg2a3vc4vmsmxtjmckjzltqvz83ste98mr6x5",
-   "consensus_pubkey":{
-     "@type": "/cosmos.crypto.ed25519.PubKey",
-     "key": "04ejg0/DrEK2lyox0atJ1RRE+WRu31fBuvHOtQ6btv4="
-   },
-   "jailed":false,
-   "status": "BOND_STATUS_BONDED",
-   "tokens": "34659471715935567509782",
-   "delegator_shares": "34659471715935567509782.000000000000000000",
-     "description":{
-     "moniker": "Active Nodes",
-     "identity": "A2EA7DE76AD57E1A",
-     "website": "https://www.activenodes.io",
-     "security_contact": "",
-     "details": "We Skyrocket your Stake! Highly Available Enterprise Infrastructure with multiple nodes around the world",
-     "social":[
-         {
-            "name":"Twitter",
-            "link":"https://twitter.com/activenodes_io"
-         },
-         {
-            "name":"Telegram",
-            "link":"https://t.me/activenodes_io"
-         }
-      ],
-      "collaborators":[],
-      "communities":[
-         {
-            "involvement_type":"Other",
-            "description":"Contributions of Active Nodes",
-            "date_from":"Nov 2021",
-            "date_to":"Present",
-            "contributions":[
-               {
-                  "name":"Discord #validator-status Bot",
-                  "description":"Discord Bot to notify validators status, moniker and commission changes, governance, voting power, and other features"
-               }
-            ]
-         }
-      ],
-      "offers_auto_compounding":true,
-      "has_interchain_account":false,
-      "is_recent":false,
-      "has_liquid_staking":false,
-      "relayers":false
-   },
-   "unbonding_height": "984499",
-   "unbonding_time": "2022-07-14T18:37:13.117448665Z",
-   "commission": {
-     "commission_rates": {
-       "rate": "0.050000000000000000",
-       "max_rate": "0.200000000000000000",
-       "max_change_rate": "0.200000000000000000"
-     },
-     "update_time": "2022-03-02T19:00:00Z"
-   },
-   "min_self_delegation": "1"
+  "operator_address": "evmosvaloper1ufg2a3vc4vmsmxtjmckjzltqvz83ste98mr6x5",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "04ejg0/DrEK2lyox0atJ1RRE+WRu31fBuvHOtQ6btv4="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "34659471715935567509782",
+  "delegator_shares": "34659471715935567509782.000000000000000000",
+  "description": {
+    "moniker": "Active Nodes",
+    "identity": "A2EA7DE76AD57E1A",
+    "website": "https://www.activenodes.io",
+    "security_contact": "",
+    "details": "We Skyrocket your Stake! Highly Available Enterprise Infrastructure with multiple nodes around the world",
+    "social": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/activenodes_io"
+      },
+      {
+        "name": "Telegram",
+        "link": "https://t.me/activenodes_io"
+      }
+    ],
+    "collaborators": [],
+    "communities": [
+      {
+        "involvement_type": "Other",
+        "description": "Contributions of Active Nodes",
+        "date_from": "Nov 2021",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "Discord #validator-status Bot",
+            "description": "Discord Bot to notify validators status, moniker and commission changes, governance, voting power, and other features"
+          }
+        ]
+      }
+    ],
+    "offers_auto_compounding": true,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": false
+  },
+  "unbonding_height": "984499",
+  "unbonding_time": "2022-07-14T18:37:13.117448665Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.200000000000000000"
+    },
+    "update_time": "2022-03-02T19:00:00Z"
+  },
+  "min_self_delegation": "1"
 }
