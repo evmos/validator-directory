@@ -33,11 +33,10 @@
             "name": "Advanced EVM and Inter-Chain Techniques",
             "description": "Innovated by Christian, developed and demonstrated by Loredana for Evmos (https://www.youtube.com/c/LoredanaCirstea/videos)"
           }
-         
         ]
       }
     ],
-    "infrastructures": [    ],
+    "infrastructures": [],
     "offers_auto_compounding": false,
     "has_interchain_account": false,
     "is_recent": false,
