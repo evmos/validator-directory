@@ -1,0 +1,58 @@
+{
+  "operator_address": "evmosvaloper1kplw4kngrepaclp8570ampuqxuuuugkg2wsxaw",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "ulj1eIjXigmfqWQgwt+A2VMRCd9WaooNRY3Lq7ZOTDI="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "80358550872268756442000",
+  "delegator_shares": "80358550872268756442000.000000000000000000",
+  "description": {
+    "moniker": "votes4volunteers",
+    "identity": "ADB5ED320E586080",
+    "website": "https://evolve.provable.dev/",
+    "social": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/ctzurcanu"
+      }
+    ],
+    "security_contact": "",
+    "details": "A validator that donates its voting power to The Laurel Project volunteers.",
+    "collaborators": [],
+    "communities": [
+      {
+        "involvement_type": "Github",
+        "description": "Contributions of votes4volunteers",
+        "date_from": "Jan 2022",
+        "date_to": "Present",
+        "handle": "ctzurcanu",
+        "contributions": [
+          {
+            "name": "Advanced EVM and Inter-Chain Techniques",
+            "description": "Innovated by Christian, developed and demonstrated by Loredana for Evmos (https://www.youtube.com/c/LoredanaCirstea/videos)"
+          }
+         
+        ]
+      }
+    ],
+    "infrastructures": [    ],
+    "offers_auto_compounding": false,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": false
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.050000000000000000"
+    },
+    "update_time": "2022-07-05T21:54:17.669794960Z"
+  },
+  "min_self_delegation": "100000000000000000"
+}
