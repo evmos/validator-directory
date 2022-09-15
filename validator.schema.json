@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@litvinsky 
-evmos
-/
-validator-directory
-Public
-Code
-Issues
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-validator-directory/validator.schema.json
-@masterfung
-masterfung updated schema and readme
-Latest commit a9db6e1 11 hours ago
- History
- 1 contributor
-254 lines (254 sloc)  7.43 KB
-
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Validator Directory",
@@ -282,17 +252,3 @@ Latest commit a9db6e1 11 hours ago
     }
   }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
