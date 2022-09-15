@@ -10,7 +10,7 @@
     },
     "description": {
       "type": "object",
-      "required": ["logo_link", "details", "website", "social"],
+      "required": ["details", "website", "social"],
       "properties": {
         "moniker": {
           "type": "string",
