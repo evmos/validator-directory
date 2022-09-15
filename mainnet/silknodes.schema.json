@@ -28,12 +28,12 @@
     "communities": [
       {
         "involvement_type": "Other",
-        "description": "Contributions of AM Solutions",
+        "description": "Contributions of Silk Nodes",
         "date_from": "Sep 2022",
         "date_to": "Present",
         "contributions": [
           {
-            "name": "RPC, gRPC and  API endpoints",
+            "name": "RPC, gRPC and API endpoints",
             "description": "We are currently providing public RPC, gRPC and API endpoints. https://rpc.evmos.silknodes.io/, https://api.evmos.silknodes.io/, https://grpc.evmos.silknodes.io/, https://grpcweb.evmos.silknodes.io/"
           },
           {
@@ -45,7 +45,7 @@
     ],
     "infrastructures": [
       {
-        "hosting_provider": ["Self Hosted", "Own datacenter"],
+        "hosting_provider": "Self Hosted",
         "stack_details": "We pride ourselves on being 100% bare metal validators running our own infrastructure. We use Horcrux to ensure our keys are safe and secure."
       }
     ],
