@@ -11,7 +11,7 @@
   "description": {
     "moniker": "DeFi100-iCosmosDAO 💯⚛️",
     "identity": "3D7812E90AFB1548",
-    "website": "http://icosmosdao.com",
+    "website": "https://icosmosdao.com",
     "social": [
       {
         "name": "DeFi100",
@@ -23,15 +23,32 @@
       }
     ],
     "security_contact": "",
-    "details": "We are from Cosmos Chinese community, iCosmosDAO is a node DAO organization formed by Cosmos fans,website is http://icosmosdao.com/. Out of our love for Cosmos ecology, we have built test nodes, main network verification nodes, and opened the reinvestment function, which can be found by searching the node logo iCosmosDAO; Regarding the revenue distribution of the nodes, we share most of the revenue of the nodes to our supporters; besides promoting Cosmos in the Chinese community and writing tutorials, we sponsor developers to develop Cosmos tools such as IBCCoin.org",
+    "details": "We are from Cosmos Chinese community, iCosmosDAO is a node DAO organization formed by Cosmos fans,website is https://icosmosdao.com/. Out of our love for Cosmos ecology, we have built test nodes, main network verification nodes, and opened the reinvestment function, which can be found by searching the node logo iCosmosDAO; Regarding the revenue distribution of the nodes, we share most of the revenue of the nodes to our supporters; besides promoting Cosmos in the Chinese community and writing tutorials, we sponsor developers to develop Cosmos tools such as IBCCoin.org",
     "collaborators": [],
-    "communities": [],
-    "infrastructures": [],
+    "communities": [
+      {
+        "involvement_type": "Other",
+        "description": "Contributions of DeFi100-iCosmosDAO",
+        "date_from": "Mar 2022 to Present",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "RPC provider",
+            "description": "Hosting a public RPC and API for mainnet and testnet(https://rpc.evmos.icosmosdao.com,https://api.evmos.icosmosdao.com,https://grpc.evmos.icosmosdao.com,https://jsonrpc.evmos.icosmosdao.com)"
+          }
+        ]
+      }
+    ],
+    "infrastructures": [
+      {
+        "hosting_provider": "https://rpc.evmos.icosmosdao.com,https://api.evmos.icosmosdao.com,https://grpc.evmos.icosmosdao.com,https://jsonrpc.evmos.icosmosdao.com"
+      }
+    ],
     "offers_auto_compounding": false,
     "has_interchain_account": false,
     "is_recent": true,
     "has_liquid_staking": false,
-    "relayers": false
+    "relayers": true
   },
   "unbonding_height": "0",
   "unbonding_time": "1970-01-01T00:00:00Z",
