@@ -14,12 +14,16 @@
     "website": "https://icosmosdao.com",
     "social": [
       {
-        "name": "DeFi100",
+        "name": "Discord",
         "link": "https://discord.gg/DeFi"
       },
       {
         "name": "Telegram",
         "link": "https://t.me/DeFi100group"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/iCosmosDAO"
       }
     ],
     "security_contact": "",
