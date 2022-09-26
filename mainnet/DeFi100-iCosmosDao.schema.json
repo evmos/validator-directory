@@ -26,7 +26,7 @@
         "link": "https://twitter.com/iCosmosDAO"
       }
     ],
-    "security_contact": "",
+    "security_contact": "zhongzhizhong1988@gmail.com",
     "details": "We are from Cosmos Chinese community, iCosmosDAO is a node DAO organization formed by Cosmos fans,website is https://icosmosdao.com/. Out of our love for Cosmos ecology, we have built test nodes, main network verification nodes, and opened the reinvestment function, which can be found by searching the node logo iCosmosDAO; Regarding the revenue distribution of the nodes, we share most of the revenue of the nodes to our supporters; besides promoting Cosmos in the Chinese community and writing tutorials, we sponsor developers to develop Cosmos tools such as IBCCoin.org",
     "collaborators": [],
     "communities": [
@@ -37,8 +37,22 @@
         "date_to": "Present",
         "contributions": [
           {
+            "name": "Ping Explorer",
+            "description": "Develop Cosmos-side explorer for Evmos mainnet and testnet",
+            "link": "https://explorer.icosmosdao.com/"
+          },
+          {
             "name": "RPC provider",
             "description": "Hosting a public RPC and API for mainnet and testnet(https://rpc.evmos.icosmosdao.com,https://api.evmos.icosmosdao.com,https://grpc.evmos.icosmosdao.com,https://jsonrpc.evmos.icosmosdao.com)"
+          },
+          {
+            "name": "Statesync provider",
+            "description": "Our RPC allows statesync."
+          },
+          {
+            "name": "Testnets participant",
+            "description": "We have been participating in Evmos on testnet. Running current 'evmos_9000-4' testnet",
+            "link": "https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper1056r9k2z0gw2vkwta9wfh7mm07tq0zd2fmtzyw"
           }
         ]
       }
