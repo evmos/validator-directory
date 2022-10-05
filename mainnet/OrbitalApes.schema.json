@@ -1,0 +1,59 @@
+{
+    "operator_address": "evmosvaloper1mx9nqk5agvlsvt2yc8259nwztmxq7zjqep5khu",
+    "consensus_pubkey": {
+      "@type": "/cosmos.crypto.ed25519.PubKey",
+      "key": "mVeuoFF0IbezNNbwZMOnALDpv+SHh+709R6ol6OXO0A="
+    },
+    "jailed": false,
+    "status": "BOND_STATUS_BONDED",
+    "tokens": "",
+    "delegator_shares": "",
+    "description": {
+      "moniker": "OrbitalApes.com",
+      "identity": "",
+      "website": "https://www.orbitalapes.com",
+      "social": [
+        {
+          "name": "Discord",
+          "link": "https://discord.gg/OrbitalApes"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/OrbitalApes"
+        }
+      ],
+      "security_contact": "orbitalapes@gmail.com",
+      "details": "Validator by Orbital Apes NFT",
+      "collaborators": [],
+      "communities": [
+        {
+          "involvement_type": "Code",
+          "description": "Ecosystem code contributions by Orbital Apes team ",
+          "date_from": "April 2022",
+          "date_to": "Present",
+          "contributions": [
+            {
+              "name": "wwww.orbitmarket.io",
+              "description": "A marketplace to explore and trade NFT's on Evmos"
+            }
+          ]
+        }
+      ],
+      "offers_auto_compounding": true,
+      "has_interchain_account": false,
+      "is_recent": false,
+      "has_liquid_staking": false,
+      "relayers": false
+    },
+    "unbonding_height": "0",
+    "unbonding_time": "1970-01-01T04:00:00Z",
+    "commission": {
+      "commission_rates": {
+        "rate": "0.050000000000000000",
+        "max_rate": "0.100000000000000000",
+        "max_change_rate": "0.010000000000000000"
+      },
+      "update_time": "2022-04-29T01:50:00Z"
+    },
+    "min_self_delegation": "1000000"
+  }
