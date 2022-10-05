@@ -1,0 +1,68 @@
+{
+  "operator_address": "evmosvaloper1d6c097pmd6avh0x3spfwc0cagc690e2mmkpx4h",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "ynwtgtzyaiQJ6/ePUIc9tIMw/k9wWN9IqPQHuW1By90="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "59764461584760865573922",
+  "delegator_shares": "59764461584760865573922.000000000000000000",
+  "description": {
+    "moniker": "GalaxyStaking - Jupiter 🌑",
+    "identity": "CE96041EC98A5DDA",
+    "website": "https://galaxystaking.space",
+    "social": [
+      {
+        "name": "Discord",
+        "link": "https://discord.gg/C4dhbW23WW"
+      },
+      {
+        "name": "Telegram",
+        "link": "https://t.me/+CjNyaEDCtEY2YjRh"
+      },
+      {
+        "name": "Reddit",
+        "link": "https://www.reddit.com/r/galaxystaking/"
+      }
+    ],
+    "security_contact": "admin@galaxystaking.space",
+    "details": "a new era of staking!",
+    "collaborators": [],
+    "communities": [
+      {
+        "involvement_type": "Other",
+        "description": "GalaxyStaking",
+        "date_from": "March 2021",
+        "date_to": "today",
+        "contributions": [
+          {
+            "name": "Statesync Snapshots",
+            "description": "Daily Snapshot on https://statesync.galaxystaking.space"
+          }
+        ]
+      }
+    ],
+    "infrastructures": [
+      {
+        "hosting_provider": "Various providers distributed around the world (Finland, Germany, USA and Singapore)"
+      }
+    ],
+    "offers_auto_compounding": true,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": true
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.200000000000000000",
+      "max_change_rate": "0.050000000000000000"
+    },
+    "update_time": "2022-05-13T11:32:01.842707316Z"
+  },
+  "min_self_delegation": "1"
+}
