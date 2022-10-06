@@ -1,0 +1,55 @@
+{
+  "validator": {
+    "operator_address": "evmosvaloper1uc2v23g8cha0m6kd2ghwn766fyccf0nmfw3prt",
+    "consensus_pubkey": {
+      "@type": "/cosmos.crypto.ed25519.PubKey",
+      "key": "9J3FWnVLlLdHG7K0OqQKGn94OlFvfQ37Je3YsJAo1Fs="
+    },
+    "jailed": false,
+    "status": "BOND_STATUS_UNBONDING",
+    "tokens": "31395493530369200136014",
+    "delegator_shares": "31395493530369200136014.000000000000000000",
+    "description": {
+      "moniker": "Legion Nodes",
+      "identity": "59CD2BDC78803F24",
+      "website": "https://www.legionnodes.com",
+      "security_contact": "support@legionnodes.com",
+      "details": "Legion Nodes provides maximum uptime for the Evmos network so that you can be confident your node will be there, ready and secure, for optimal reward generation.",
+      "social": [
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/LegionNodes",
+        },
+        {
+          "name": "Telegram",
+          "link": "https://t.me/legionnodes",
+        }
+      ],
+      "communities": [
+      {
+        "involvement_type": "Code",
+        "description": "Ecosystem contributions by Legion Nodes team",
+        "date_from": "July 2022",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "https://legionnodes.com/",
+            "description": "Staking calculator to estimate your rewards."
+          }
+        ]
+      }
+    ],
+    },
+    "unbonding_height": "5218271",
+    "unbonding_time": "2022-10-17T18:55:35.957640446Z",
+    "commission": {
+      "commission_rates": {
+        "rate": "0.050000000000000000",
+        "max_rate": "0.100000000000000000",
+        "max_change_rate": "0.010000000000000000"
+      },
+      "update_time": "2022-05-28T17:18:19.152823908Z"
+    },
+    "min_self_delegation": "1"
+  }
+}
