@@ -1,0 +1,80 @@
+{
+  "operator_address": "evmosvaloper1shvcjzhcxau6qtlz9w82a646ecwp4hq7ayqt0w",
+  "consensus_pubkey": {
+    "@type": "/cosmos.crypto.ed25519.PubKey",
+    "key": "onq0BLHTHD2bPzhDXbXrk0W2eNPMzK6T9UQriuPYG+w="
+  },
+  "jailed": false,
+  "status": "BOND_STATUS_BONDED",
+  "tokens": "318333577642806963523867",
+  "delegator_shares": "318333577642806963523867.000000000000000000",
+  "description": {
+    "moniker": " AutoStake \U0001F6E1️ Slash Protected",
+    "identity": "4D3303E20A4D2C32",
+    "website": "https://autostake.net",
+    "social": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/AutoStake_"
+      },
+      {
+        "name": "Telegram",
+        "link": "https://telegram.me/AutoStake_net"
+      }
+    ],
+    "security_contact": "support@autostake.net",
+    "details": "100% Refund on ALL forms of slashing backed by a SAFU fund. \U0001F4B8Auto-Compound with wallet.autostake.net \U0001F4B8 & IBC Relayer: ibc.autostake.net & twitter.com/AutoStake_& telegram.me/AutoStake_net",
+    "collaborators": [],
+    "communities": [
+      {
+        "involvement_type": "Other",
+        "description": "Contributions of AutoStake",
+        "date_from": "Oct 2021 to Present",
+        "date_to": "Present",
+        "contributions": [
+          {
+            "name": "IBC Relayer",
+            "description": "Relaying the IBC highway: https://ibc.autostake.net"
+          },
+          {
+            "name": "Pruned Snapshot provider",
+            "description": "Hosting daily updated pruned snapshots: http://snapshots.autostake.net/evmos_9001-2/"
+          },
+          {
+            "name": "addrbook.json provider",
+            "description": "Hosting daily updated addrbook: http://snapshots.autostake.net/evmos_9001-2/addrbook.json"
+          },
+          {
+            "name": "Seed node provider",
+            "description": "Providing seed nodes: http://snapshots.autostake.net/evmos_9001-2/seed.txt"
+          },
+          {
+            "name": "Peer node provider",
+            "description": "Providing peer nodes: http://snapshots.autostake.net/evmos_9001-2/peer.txt"
+          }
+        ]
+      }
+    ],
+    "infrastructures": [
+      {
+        "hosting_provider": "IBC Relayer: https://ibc.autostake.net , We have peers, seeds, addrbook.json and pruned snapshots for all the chains we validate here: http://snapshots.autostake.net"
+      }
+    ],
+    "offers_auto_compounding": true,
+    "has_interchain_account": false,
+    "is_recent": false,
+    "has_liquid_staking": false,
+    "relayers": true
+  },
+  "unbonding_height": "0",
+  "unbonding_time": "1970-01-01T00:00:00Z",
+  "commission": {
+    "commission_rates": {
+      "rate": "0.050000000000000000",
+      "max_rate": "0.100000000000000000",
+      "max_change_rate": "0.010000000000000000"
+    },
+    "update_time": "2022-03-02T19:00:00Z"
+  },
+  "min_self_delegation": "1"
+}
